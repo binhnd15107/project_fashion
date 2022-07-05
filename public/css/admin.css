@@ -1,0 +1,13 @@
+.table-responsive{
+ max-width: 700px;
+ margin: auto;
+}
+.table-striped{
+    position: relative;
+}
+.table-striped tr td{
+    border: 1px solid black;
+    text-align: center;
+    align-items: center;
+
+}
